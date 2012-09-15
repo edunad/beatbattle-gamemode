@@ -23,7 +23,10 @@ SendFragWinning() // Update Him
 if Data.RoundStarted then
 
 ply.Inicial = true
+timer.Simple(0.5,function() 
 ply:Kill()
+ply:SetFrags(0)
+end) // killing is being lazy.
 
 elseif Data.RoundStarted == false then
 SpawnPlayerLocation(ply) // spawn him.
@@ -141,6 +144,7 @@ ply:SetColor(Color(255,1,1,100))
 	
 if Data.Preparing then
 ply:Freeze(true)
+ply.Inicial = false
 end
 	
 timer.Simple( Data.GodModeTime , function() 
