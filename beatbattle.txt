@@ -1,0 +1,7 @@
+"Gamemode"
+{
+	"base"		"base"
+	"title"		"beatbattle"
+	"maps"		"^bb_"
+	"menusystem"	"1"
+}
