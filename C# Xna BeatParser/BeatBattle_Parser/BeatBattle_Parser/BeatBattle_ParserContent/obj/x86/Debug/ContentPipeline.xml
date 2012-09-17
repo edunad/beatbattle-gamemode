@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>shape.png</Source>
+      <Name>shape</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\BeatBattle_Parser\BeatBattle_Parser\BeatBattle_Parser\bin\x86\Debug\Content\shape.xnb</Output>
+      <Time>2012-09-01T20:46:33.9131449+01:00</Time>
+    </Item>
+    <Item>
+      <Source>song.mp3</Source>
+      <Name>song</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\BeatBattle_Parser\BeatBattle_Parser\BeatBattle_Parser\bin\x86\Debug\Content\song.xnb</Output>
+      <Extra>C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\BeatBattle_Parser\BeatBattle_Parser\BeatBattle_Parser\bin\x86\Debug\Content\song.wma</Extra>
+      <Time>2012-09-17T16:21:41.1596599+01:00</Time>
+    </Item>
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\BeatBattle_Parser\BeatBattle_Parser\BeatBattle_Parser\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2012-09-17T14:37:59.8588219+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\BeatBattle_Parser\BeatBattle_Parser\BeatBattle_ParserContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\BeatBattle_Parser\BeatBattle_Parser\BeatBattle_Parser\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\BeatBattle_Parser\BeatBattle_Parser\BeatBattle_ParserContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\BeatBattle_Parser\BeatBattle_Parser\BeatBattle_Parser\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-09-06T13:36:11.6807393+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
