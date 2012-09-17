@@ -1,0 +1,4 @@
+Content\shape.xnb
+Content\song.xnb
+Content\song.wma
+Content\font.xnb

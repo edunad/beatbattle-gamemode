@@ -1,0 +1,10 @@
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\BeatBattle_Parser\BeatBattle_Parser\BeatBattle_Parser\bin\x86\Debug\BeatBattle_Parser.exe
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\BeatBattle_Parser\BeatBattle_Parser\BeatBattle_Parser\bin\x86\Debug\BeatBattle_Parser.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\BeatBattle_Parser\BeatBattle_Parser\BeatBattle_Parser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\BeatBattle_Parser\BeatBattle_Parser\BeatBattle_Parser\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\BeatBattle_Parser\BeatBattle_Parser\BeatBattle_Parser\obj\x86\Debug\BeatBattle_Parser.exe
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\BeatBattle_Parser\BeatBattle_Parser\BeatBattle_Parser\obj\x86\Debug\BeatBattle_Parser.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\BeatBattle_Parser\BeatBattle_Parser\BeatBattle_Parser\bin\x86\Debug\Content\shape.xnb
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\BeatBattle_Parser\BeatBattle_Parser\BeatBattle_Parser\bin\x86\Debug\Content\song.xnb
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\BeatBattle_Parser\BeatBattle_Parser\BeatBattle_Parser\bin\x86\Debug\Content\song.wma
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\BeatBattle_Parser\BeatBattle_Parser\BeatBattle_Parser\bin\x86\Debug\Content\font.xnb

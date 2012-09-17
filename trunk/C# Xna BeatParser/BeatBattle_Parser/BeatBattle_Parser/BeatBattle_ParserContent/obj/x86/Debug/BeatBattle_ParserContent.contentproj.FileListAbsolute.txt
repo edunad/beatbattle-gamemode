@@ -1,0 +1,1 @@
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\BeatBattle_Parser\BeatBattle_Parser\BeatBattle_ParserContent\obj\x86\Debug\ResolveAssemblyReference.cache
